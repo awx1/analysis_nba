@@ -1,4 +1,6 @@
 # analysis_nba: STAT 405 Final
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 ## Table of Contents
 * [General info](#general-info)
