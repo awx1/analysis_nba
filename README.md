@@ -1,6 +1,6 @@
 # analysis_nba: STAT 405 Final
 
-## Table of contents
+## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -54,7 +54,7 @@ box_score_plus is formatted as follows:
 |'TO'|Turnovers|
 |'PF'|Personal Fouls|
 |'PTS'|Points|
-|'PLUS_MINUS'||
+|'PLUS_MINUS'|Plus Minus|
 
 </td><td>
 
